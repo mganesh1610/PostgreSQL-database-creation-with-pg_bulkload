@@ -1,5 +1,3 @@
-# Assignment-1-gmarimu1
-
 --------------
 Optimization:
 --------------
